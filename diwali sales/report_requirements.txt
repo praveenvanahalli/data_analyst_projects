@@ -1,0 +1,6 @@
+Diwali Sales
+
+Requirements:
+	1.	Company wants to know sales pattern for different set of age groups against all product category
+	2.	Find high selling category and the max sales happened by age group
+	3.	% of sales for each age groups for individual category
